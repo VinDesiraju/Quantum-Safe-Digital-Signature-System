@@ -6,6 +6,8 @@ Rainbow cryptography is a cryptographic algorithm designed for digital signature
 
 Through the introduction of a Rainbow cryptography-based quantum-resistant digital signature system, I overcame the shortcomings of the current practice. Rainbow cryptography provides long-term security even in a world with potent quantum computers since it is made to withstand quantum attacks. This system will be able to provide digital signatures that are safe against quantum attacks by utilizing the Rainbow scheme, guaranteeing the integrity and validity of documents in the post-quantum future.
 
+Reference paper: https://bit.ly/2vwckRw
+
 ## Steps to Run the Project
 
 ### Option 1:
