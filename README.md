@@ -1,6 +1,10 @@
-# CryptoVinaigrette
+# Quantum Safe Digital Signature System
 
-CryptoVinaigrette is a Python project that provides a demonstration of signing and verifying documents using cryptography. It generates a pair of public and private key files and allows users to sign and verify documents.
+This is a Python project that provides a demonstration of signing and verifying documents using Rainbow cryptography. It generates a pair of public and private key files and allows users to sign and verify documents.
+
+Rainbow cryptography is a cryptographic algorithm designed for digital signatures. It is regarded as a post-quantum cryptography system and is a particular kind of multivariate polynomial cryptography. The aim of post-quantum cryptography is to create signature and encryption protocols that are safe in the face of potent quantum computers which are considered to be at the highest standard of computing.
+
+Through the introduction of a Rainbow cryptography-based quantum-resistant digital signature system, I overcame the shortcomings of the current practice. Rainbow cryptography provides long-term security even in a world with potent quantum computers since it is made to withstand quantum attacks. This system will be able to provide digital signatures that are safe against quantum attacks by utilizing the Rainbow scheme, guaranteeing the integrity and validity of documents in the post-quantum future.
 
 ## Steps to Run the Project
 
@@ -38,7 +42,7 @@ NOTE: Use the command line argument -v 1 while running the script for useful log
 
 1.	After downloading the project, go to the project location in the terminal and open the Python interpreter. Now, follow the commands as mentioned in the screenshot below:
 
-2.	<img width="800" height="700" alt="image" src="https://github.com/VinDesiraju/Quantum-Safe-Digitsl-Signature-System/assets/31548669/52cf907d-116d-4a0d-91ac-c8cb685adc74">
+2.	<img width="850" height="700" alt="image" src="https://github.com/VinDesiraju/Quantum-Safe-Digitsl-Signature-System/assets/31548669/52cf907d-116d-4a0d-91ac-c8cb685adc74">
 
 
 
