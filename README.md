@@ -44,10 +44,11 @@ NOTE: Use the command line argument -v 1 while running the script for useful log
 
 1.	After downloading the project, go to the project location in the terminal and open the Python interpreter. Now, follow the commands as mentioned in the screenshot below:
 
-2.	<img width="850" height="700" alt="image" src="https://github.com/VinDesiraju/Quantum-Safe-Digitsl-Signature-System/assets/31548669/52cf907d-116d-4a0d-91ac-c8cb685adc74">
+<img width="850" height="700" alt="image" src="https://github.com/VinDesiraju/Quantum-Safe-Digitsl-Signature-System/assets/31548669/52cf907d-116d-4a0d-91ac-c8cb685adc74">
 
 
-Test Documents:
+### Test Documents:
+
 <img width="387" alt="Screenshot 2023-12-24 at 8 22 14 PM" src="https://github.com/VinDesiraju/Quantum-Safe-Digital-Signature-System/assets/31548669/3bbced7f-45fe-4359-baa1-7bbe485bb566">
 
 
